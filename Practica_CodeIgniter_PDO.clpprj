@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<project name="C:\wamp64\www\Practica_Codelobters\Practica_Codelobters_CodeIgniter.clpprj">
+<project name="C:\wamp64\www\Practica_Codelobters\Practica_CodeIgniter_PDO.clpprj">
 	<settings><PM_URL><![CDATA[http://localhost/Practica_Codelobters/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/Practica_Codelobters/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
-		<file name="C:\wamp64\www\Practica_Codelobters\index.php"/>
+		<file name="C:\wamp64\www\Practica_Codelobters\application\controllers\Welcome.php"/>
+		<file name="C:\wamp64\www\Practica_Codelobters\application\models\cx_db.php"/>
 	</lastopfiles>
 	<errors version="5.11">
 	</errors>
@@ -463,6 +464,7 @@
 		<file name="C:\wamp64\www\Practica_Codelobters\application\views\index.html" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\third_party\index.html" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\models\index.html" crc="1521730135"/>
+		<file name="C:\wamp64\www\Practica_Codelobters\application\models\cx_db.php" crc="1523496827"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\logs\index.html" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\libraries\index.html" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\language\english\index.html" crc="1521730135"/>
@@ -470,7 +472,7 @@
 		<file name="C:\wamp64\www\Practica_Codelobters\application\hooks\index.html" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\helpers\index.html" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\core\index.html" crc="1521730135"/>
-		<file name="C:\wamp64\www\Practica_Codelobters\application\controllers\Welcome.php" crc="1523392708"/>
+		<file name="C:\wamp64\www\Practica_Codelobters\application\controllers\Welcome.php" crc="1523489261"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\controllers\index.html" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\config\user_agents.php" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\config\smileys.php" crc="1521730135"/>
@@ -483,7 +485,7 @@
 		<file name="C:\wamp64\www\Practica_Codelobters\application\config\hooks.php" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\config\foreign_chars.php" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\config\doctypes.php" crc="1521730135"/>
-		<file name="C:\wamp64\www\Practica_Codelobters\application\config\database.php" crc="1523390671"/>
+		<file name="C:\wamp64\www\Practica_Codelobters\application\config\database.php" crc="1523496919"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\config\constants.php" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\config\config.php" crc="1523390671"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\config\autoload.php" crc="1521730135"/>
@@ -491,6 +493,6 @@
 		<file name="C:\wamp64\www\Practica_Codelobters\application\index.html" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\application\.htaccess" crc="1521730135"/>
 		<file name="C:\wamp64\www\Practica_Codelobters\license.txt" crc="1521730135"/>
-		<file name="C:\wamp64\www\Practica_Codelobters\index.php" crc="1521730135"/>
+		<file name="C:\wamp64\www\Practica_Codelobters\index.php" crc="1523394298"/>
 	</filescache>
 </project>
