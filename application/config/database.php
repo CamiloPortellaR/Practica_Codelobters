@@ -75,11 +75,11 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost:3306',
+	'hostname' => 'mysql:host=localhost:3306;dbname=demo_ci',  /* localhost:3306 */
 	'username' => 'root',
 	'password' => '',
-	'database' => 'demo_ci',
-	'dbdriver' => 'mysqli',
+	'database' => '',
+	'dbdriver' => 'pdo',   /* mysqli */
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
